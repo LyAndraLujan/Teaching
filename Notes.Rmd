@@ -1,0 +1,243 @@
+---
+title: "EvolutionGENotes"
+author: "LyAndra Lujan"
+date: "2024-06-26"
+output: pdf_document
+---
+
+These are my notes from when I taught Evolution with Michael Shavlik in Spring 2024.
+
+# Week 1: Evolution Education
+
+## Reading:https://doi.org/10.1038/s41559-019-0802-9
+
+I introduced myself, where I'm from, my research background, etc. 
+
+I discussed what I see my goal as GE is and the community standards that we created in the lectures.
+
+I talked about the basic structure of the discussions.
+
+Discussion Quizzes! Discussion quizzes are one question closed book quizzes about the reading from that week worth one pt. The goal is to get the students to do the reading but they also shouldn't hurt their grade that much. Together they are worth 10% of their grade and I added ways to make up points.
+
+Covered the discussion attendance requirements from the syllabus. 
+
+Ice Breakers!
+We did one where we just went around the room and introduced ourselves.
+Played "Four Corners." Each corner of the room corresponds to a different answer, they got up out of their chairs and went to the corner that corresponds to their answer that best fits them. The questions I used:
+
+1. My favorite type of pet: a. dogs b. cats c. anything else d. no pets
+2. My favorite field of biology: a. Evolution and Ecology b. Marine c. Molecular D. Neurology
+3. My favorite activity at the REC is: a. climbing/bouldering b. Group x/Webfoot/F45/ Other class c. Weights d. Cardio/swimming
+4. My favorite place to grab a drink: a. Max's b. architecture building cafe c. Rennie's d. roma
+5. My favorite place to study: a. room/home b. library c. outside d. bar/coffee shop
+6. My favorite subject is: a. math b. biology c. history d. anything else
+
+Then we briefly discussed the reading for the week. The main takeaways were:
+
+* There are many factors that impact someone's willingness to accept evolution
+* The goal of evolution education should be increasing acceptance of evolution.
+
+Last thing, I had them write personal reflections. Somewhere they can access at the end of the term, write down how they feel about evolution and the class. They did not turn it in, but kept them for later. (We looked at them at the end of the term and wrote one to be turned in.)
+
+# Week 2: Pigeonetics take flight
+
+## Reading: doi:10.1016/j.ydbio.2016.11.008
+
+## Reading Quiz: 
+There are three traits selected by humans discussed in this paper, name them. One correct answer gets the point.
+Answer: Head crests, plumage color, or feathered feet.
+
+## Main take aways:
+
+* Domestic pigeons are descendants of the wild rock pigeon.
+* They have identified specific genes that control the traits that humans have selected for
+    + Plumage color *tyrp1* wild type = black, dominant = ash red, recessive = brown. *Sox10* recessive red. *Slc45a2* lightened color.
+  + Feathered feet *pitx1* feathered coverage, *tbx5* length of foot feathers.
+* Domestic pigeons have traits that we can use to decipher their genetic causes, that we can use to study those traits/genes in wild populations.
+
+## Activity: Pigeon Breeding!
+I have a word doc with the activity guide I made up.
+
+Using a trait - genotype table that I've created (and made up) you have a crested rolling pigeon and a non-crested-rolling pigeon. what is the probability they'll have a creased non-rolling pigeon?
+
+You would like a muffed crested pigeon, what parents would you breed to get one?
+
+What if you wanted it to roll?
+
+# Week 3: Women's contributions to pop gen
+
+## Reading: https://doi.org/10.1534/genetics.118.301277
+
+## Reading quiz:
+What section of the manuscripts, or journal articles, did they analyze to find the non-author women who contributed to the research?
+
+## Summary:
+They analyzed the acknowledgement sections of papers in theoretical population biology in an attempt to uncover how often women had contributed to the research that had been published.
+
+* They looked at articles published between 1970 and 1990
+* Found a disproportional amount of "acknowledged programmers" were women
+* Early (1970) research relied heavily on simulations and numerical approaches made possible by computational advances
+* Woman's contributions to programming has often been overlooked/left out of computer/programming education.
+* The occurrences of acknowledged programmers has decreased over time.
+    + Programming now warrants authorship
+    + Programming now is a masculine field
+    + Lack of visible women role models in quantitative fields contributes to reduced sense of belonging and retention among women in science.
+ 
+ Computer Programmers were women (Pink color) -> Computer programmers didn't get authorship
+ 
+ Many fields, like pop gen, couldn't advance with out computation
+ 
+ Computer programming became a masculine field -> Programmers became worthy of authorship
+ 
+## Notable Scientist
+Margaret Wu
+
+* statistician and psychometrician (focuses on how to measure education)
+* Self taught programmer
+* She programmed Watterson's estimator
+* Developed acer conquest (1998) and the r package TAM (2010)
+* Got graduate degree in 1985
+
+## Authors
+Both authors have a podcast called Science Wise
+
+Emilia Huerta-Sanchez
+
+* At Brown
+* Human population genetics
+    + Human high altitude populations
+* Lab created "Haplostrips"
+
+Rori Rohlfs
+
+* At UO in IEE and Computational Data Science
+* Gene expression evolution and forensic genetics
+* Software:: R package EvE.
+* Came from undergrad institution (probably really open to undergrad lead research projects.)
+
+# Week 4: Lab
+
+Brief lab introduction. Show them how to run simulations but keep it brief so they have time to complete lab during class time.
+
+# Week 5: Genes mirror geography
+
+## Reading: doi:10.1038/nature07331
+
+## Reading quiz
+How many thousands of individuals did POPRES genotype?
+
+## Brief overview:
+They took sequence data from POPRES project.
+
+* Removed SNPs with high pairwise linkage disequilibrium
+* Removed genomic regions with unique polymorphisms (like large inversions)
+* Removed individuals that were consider outliers in initial PCA.
+
+## Activity:
+Small groups come up with a question that you have or could imagine somebody would have about the reading. Put it on a slide in the Google slides file. After a couple minutes, pick a question from the Google slide file and attempt to answer it with a few slides.
+
+## Review
+Review the questions from last weeks lab that students seemed to struggle with. (4 and 6)
+
+# Week 6: Escape from bacterial iron piracy through rapid evolution of transferrin
+
+## Reading: doi:10.1126/science.1259329
+
+## Reading quiz:
+This paper looks at host-microbe interactions. What was the host?
+
+## Introduction/overview
+Science journal publishes research across disciplines 47.728 impact factor [yearly mean # citations of articles published in last 2 years]. However, some studies suggest high-prestige journals "publish significantly substandard structures", and "reliability of published research works in several fields may be decreasing with increasing journal rank."
+
+Matt Barber: studies evolution of host-microbe systems. Studied enzyme biochemistry and cell biology during PhD. Pivoted to evolution of bacterial-host interactions. Came to UO in 2016.
+
+key points of paper:
+
+* Vertebrate iron transport is mediated by serum transferrin
+    + blood plasma glycoprotein involved in iron metabolism, transports iron through blood. Iron makes hemoglobin. Hemoglobin transports oxygen.
+* Transferrin made up of N and C lobes
+* Some human pathogens scavenge iron from c lobe.
+* Paper looks at 2 things: host transferrin evolution, and pathogen evolution.
+
+## Activity
+Groups select figures on a slide and present what the figures mean.
+
+Slide breakdown:
+
+* Group 1: all Fig 1
+* Group 2: fig 2 a, b, and c
+* Group 3: fig 2 d, e, and f
+* Group 4: fig 3 a and b
+* Group 5: fig 3 c, d, and e
+
+# Week 7: Genetic architecture of stickleback armor plates.
+
+## Reading: DOI: 10.1371/journal.pbio.0020109
+
+## Reading quiz
+There are 3 morphs of the lateral armor plates. Name 1.
+
+### Answers
+Complete morph, partial morph, low morph.
+
+## What makes stickleback cool?
+
+* Repeatedly adapt to different habitat types.
+* Earthquake in Alaska created separate populations.
+* Different populations have different recombination rates.
+
+## Author spotlight
+Kingsley lab
+
+* work with stickleback and mice
+* at Stanford
+* Have a "bone of the week" website
+
+Pamela F. Colosimo
+
+* Grad student when paper was written.
+* No other information found
+* Most influential paper
+* Scientist and Simons Foundation Autism Research Initiative
+
+Catherine L. Peichel
+
+* Post doc when paper was written
+* now head of division, evolutionary ecology at Bern
+* Still works with stickleback
+
+## Activity
+
+* Summarize the article: bullet point notes. Look for info that embodies the section heading. Aim for 1 to 2 bullet points per paragraph.
+* Answer the following questions:
+
+1. What is the big picture? 
+2. Why does the research exist? What does it add to the field?
+3. Where could it go from here? What would you do next?
+
+I let them leave early because it was a nice day out and they could turn in the summary to replace a poor reading quiz grade.
+
+# Week 8: Hybrid zones
+
+## Reading: doi:10.1111/evo.14474
+
+## Reading quiz:
+I printed out the yellow shafted flicker from figure 1. had them label as many of the features as they could. They struggled with it so I gave them a bank of answers.
+
+## Overview
+My power point summarized the paper and then I talked about Jessie's hybrid paper that had just come out and I used Jessie's giant hummingbird game.
+
+Jessie's paper: https://www.pnas.org/doi/10.1073/pnas.2313599121
+
+# Week 10: Polygenic risk, population structure, and ongoing difficulties with race in human genetics
+
+## Reading: https://doi.org/10.1098/rstb.2020.0427
+
+## Reading quiz:
+Instead of a reading quiz, I had them pull out their reflections from week 1 and then write a couple sentences on how their view or feeling has changed over the term. They submitted it on canvas and got a point just for doing it.
+
+## Main point
+We should be using PRS for medical reasons. While problematic, they are more accurate determinaters than genetics alone.
+
+## Activity
+In groups I had them ask and answer questions on Google slides.
